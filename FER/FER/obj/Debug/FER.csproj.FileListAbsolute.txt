@@ -1,0 +1,56 @@
+C:\Users\Thomas\Documents\ISSC811\BI\BI\FER\FER\FER\bin\Debug\FER.exe.config
+C:\Users\Thomas\Documents\ISSC811\BI\BI\FER\FER\FER\bin\Debug\FER.exe
+C:\Users\Thomas\Documents\ISSC811\BI\BI\FER\FER\FER\bin\Debug\FER.pdb
+C:\Users\Thomas\Documents\ISSC811\BI\BI\FER\FER\FER\bin\Debug\AForge.dll
+C:\Users\Thomas\Documents\ISSC811\BI\BI\FER\FER\FER\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Thomas\Documents\ISSC811\BI\BI\FER\FER\FER\bin\Debug\AForge.Video.dll
+C:\Users\Thomas\Documents\ISSC811\BI\BI\FER\FER\FER\bin\Debug\AForge.xml
+C:\Users\Thomas\Documents\ISSC811\BI\BI\FER\FER\FER\bin\Debug\AForge.Video.xml
+C:\Users\Thomas\Documents\ISSC811\BI\BI\FER\FER\FER\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Thomas\Documents\ISSC811\BI\BI\FER\FER\FER\obj\Debug\FER.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Documents\ISSC811\BI\BI\FER\FER\FER\obj\Debug\FER.Form1.resources
+C:\Users\Thomas\Documents\ISSC811\BI\BI\FER\FER\FER\obj\Debug\FER.Properties.Resources.resources
+C:\Users\Thomas\Documents\ISSC811\BI\BI\FER\FER\FER\obj\Debug\FER.csproj.GenerateResource.cache
+C:\Users\Thomas\Documents\ISSC811\BI\BI\FER\FER\FER\obj\Debug\FER.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Documents\ISSC811\BI\BI\FER\FER\FER\obj\Debug\FER.csproj.CopyComplete
+C:\Users\Thomas\Documents\ISSC811\BI\BI\FER\FER\FER\obj\Debug\FER.exe
+C:\Users\Thomas\Documents\ISSC811\BI\BI\FER\FER\FER\obj\Debug\FER.pdb
+C:\Users\amali\Desktop\8vo\Introduccion a la inteligencia de negocios\FER\FER\FER\bin\Debug\FER.exe.config
+C:\Users\amali\Desktop\8vo\Introduccion a la inteligencia de negocios\FER\FER\FER\bin\Debug\FER.exe
+C:\Users\amali\Desktop\8vo\Introduccion a la inteligencia de negocios\FER\FER\FER\bin\Debug\FER.pdb
+C:\Users\amali\Desktop\8vo\Introduccion a la inteligencia de negocios\FER\FER\FER\bin\Debug\AForge.dll
+C:\Users\amali\Desktop\8vo\Introduccion a la inteligencia de negocios\FER\FER\FER\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\amali\Desktop\8vo\Introduccion a la inteligencia de negocios\FER\FER\FER\bin\Debug\AForge.Video.dll
+C:\Users\amali\Desktop\8vo\Introduccion a la inteligencia de negocios\FER\FER\FER\bin\Debug\AForge.xml
+C:\Users\amali\Desktop\8vo\Introduccion a la inteligencia de negocios\FER\FER\FER\bin\Debug\AForge.Video.xml
+C:\Users\amali\Desktop\8vo\Introduccion a la inteligencia de negocios\FER\FER\FER\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\amali\Desktop\8vo\Introduccion a la inteligencia de negocios\FER\FER\FER\obj\Debug\FER.csprojResolveAssemblyReference.cache
+C:\Users\amali\Desktop\8vo\Introduccion a la inteligencia de negocios\FER\FER\FER\obj\Debug\FER.Form1.resources
+C:\Users\amali\Desktop\8vo\Introduccion a la inteligencia de negocios\FER\FER\FER\obj\Debug\FER.Properties.Resources.resources
+C:\Users\amali\Desktop\8vo\Introduccion a la inteligencia de negocios\FER\FER\FER\obj\Debug\FER.csproj.GenerateResource.cache
+C:\Users\amali\Desktop\8vo\Introduccion a la inteligencia de negocios\FER\FER\FER\obj\Debug\FER.csproj.CoreCompileInputs.cache
+C:\Users\amali\Desktop\8vo\Introduccion a la inteligencia de negocios\FER\FER\FER\obj\Debug\FER.csproj.CopyComplete
+C:\Users\amali\Desktop\8vo\Introduccion a la inteligencia de negocios\FER\FER\FER\obj\Debug\FER.exe
+C:\Users\amali\Desktop\8vo\Introduccion a la inteligencia de negocios\FER\FER\FER\obj\Debug\FER.pdb
+C:\Users\amali\Desktop\8vo\Introduccion a la inteligencia de negocios\FER\FER\FER\bin\Debug\Microsoft.ProjectOxford.Common.dll
+C:\Users\amali\Desktop\8vo\Introduccion a la inteligencia de negocios\FER\FER\FER\bin\Debug\Microsoft.ProjectOxford.Face.dll
+C:\Users\amali\Desktop\8vo\Introduccion a la inteligencia de negocios\FER\FER\FER\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\amali\Desktop\8vo\Introduccion a la inteligencia de negocios\FER\FER\FER\bin\Debug\Newtonsoft.Json.dll
+C:\Users\amali\Desktop\8vo\Introduccion a la inteligencia de negocios\FER\FER\FER\bin\Debug\System.AppContext.dll
+C:\Users\amali\Desktop\8vo\Introduccion a la inteligencia de negocios\FER\FER\FER\bin\Debug\System.Console.dll
+C:\Users\amali\Desktop\8vo\Introduccion a la inteligencia de negocios\FER\FER\FER\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\amali\Desktop\8vo\Introduccion a la inteligencia de negocios\FER\FER\FER\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\amali\Desktop\8vo\Introduccion a la inteligencia de negocios\FER\FER\FER\bin\Debug\System.IO.Compression.dll
+C:\Users\amali\Desktop\8vo\Introduccion a la inteligencia de negocios\FER\FER\FER\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\amali\Desktop\8vo\Introduccion a la inteligencia de negocios\FER\FER\FER\bin\Debug\System.IO.FileSystem.dll
+C:\Users\amali\Desktop\8vo\Introduccion a la inteligencia de negocios\FER\FER\FER\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\amali\Desktop\8vo\Introduccion a la inteligencia de negocios\FER\FER\FER\bin\Debug\System.Net.Http.dll
+C:\Users\amali\Desktop\8vo\Introduccion a la inteligencia de negocios\FER\FER\FER\bin\Debug\System.Net.Sockets.dll
+C:\Users\amali\Desktop\8vo\Introduccion a la inteligencia de negocios\FER\FER\FER\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\amali\Desktop\8vo\Introduccion a la inteligencia de negocios\FER\FER\FER\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\amali\Desktop\8vo\Introduccion a la inteligencia de negocios\FER\FER\FER\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\amali\Desktop\8vo\Introduccion a la inteligencia de negocios\FER\FER\FER\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\amali\Desktop\8vo\Introduccion a la inteligencia de negocios\FER\FER\FER\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\amali\Desktop\8vo\Introduccion a la inteligencia de negocios\FER\FER\FER\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\amali\Desktop\8vo\Introduccion a la inteligencia de negocios\FER\FER\FER\bin\Debug\Newtonsoft.Json.xml
+C:\Users\amali\Desktop\8vo\Introduccion a la inteligencia de negocios\FER\FER\FER\bin\Debug\System.Diagnostics.DiagnosticSource.xml
